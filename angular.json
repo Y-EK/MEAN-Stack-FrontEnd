@@ -150,5 +150,8 @@
       }
     }
   },
-  "defaultProject": "go-fullstack-frontend"
+  "defaultProject": "go-fullstack-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
